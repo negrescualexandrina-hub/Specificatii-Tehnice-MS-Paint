@@ -1,0 +1,3 @@
+Proiect: MS Paint
+Descriere: Aplicatie pentru descrierea si editarea imaginilor.
+Autor: Negrescu Alexandrina
